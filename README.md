@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fulin</h1>
 <h3 align="center">A passionate Blockchain developer from Istanbul, Turkey</h3>
 
-- 🌱 I’m currently learning **Java, React, Solidity**
+- 🌱 I’m currently learning **Java, Spring, Solidity**
 
 - 📫 How to reach me **omerfulin@gmail.com**
 
